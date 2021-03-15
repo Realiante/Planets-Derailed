@@ -1,0 +1,12 @@
+{
+	"name": "Debug Big",
+	"id": "deb_big",
+	"description": "Big debug ship",
+	"class": "debug",
+	"icon": "debug_big/debug_big_ico.png",
+	"bodyLoader": "debug_big/debug_big_body.json",
+	"width": 500,
+	"density": 10,
+	"armour": 120,
+	"hull": 120
+}

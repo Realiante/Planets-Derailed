@@ -1,0 +1,12 @@
+{
+	"name": "Debug Two",
+	"id": "deb2",
+	"description": "Second debug ship",
+	"class": "debug",
+	"icon": "debug2/debug_2_ico.png",
+	"bodyLoader": "debug2/debug_2_body.json",
+	"width": 162,
+	"density": 5,
+	"armour": 5,
+	"hull": 5
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Debug One",
+	"id": "deb1",
+	"description": "First debugging ship",
+	"class": "debug",
+	"icon": "debug1/debug_1_ico.png",
+	"bodyLoader": "debug1/debug_1_body.json",
+	"width": 137,
+	"density": 1,
+	"armour": 1,
+	"hull": 1
+}

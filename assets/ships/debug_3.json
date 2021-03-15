@@ -1,0 +1,12 @@
+{
+	"name": "Debug Three",
+	"id": "deb3",
+	"description": "Third debug ship",
+	"class": "debug",
+	"icon": "debug3/debug_3_ico.png",
+	"bodyLoader": "debug3/debug_3_body.json",
+	"width": 147,
+	"density": 12,
+	"armour": 12,
+	"hull": 12
+}
