@@ -8,7 +8,4 @@ dependencies {
 	api "com.badlogicgames.gdx:gdx-freetype:$gdxVersion"
 	api "space.earlygrey:shapedrawer:$shapeDrawerVersion"
 	api "com.kotcrab.vis:vis-ui:$visUiVersion"
-
-	api ('io.socket:socket.io-server:3.0.1')
-	compile ('io.socket:socket.io-server:3.0.1')
 }
